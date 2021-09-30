@@ -1,0 +1,30 @@
+#Ignore File
+_out 
+*.db 
+connection.properties 
+default-*.json 
+gen/ 
+node_modules/ 
+WebContent/libraries/node_modules
+target/ 
+dist/
+
+# Web IDE, App Studio 
+.che/ 
+.gen/ 
+
+# MTA 
+*_mta_build_tmp 
+*.mtar mta_archives/ 
+
+# Other 
+.DS_Store 
+*.orig 
+*.log 
+*.iml 
+*.flattened-pom.xml 
+.env
+
+# IDEs 
+.vscode 
+# .idea
