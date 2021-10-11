@@ -1,0 +1,1 @@
+echo $PWD >> $HOME/.script_configs/.pushChanges.raspi
