@@ -1,1 +1,1 @@
-echo $PWD >> $HOME/.config/script_settings/pushChangesRaspi.cfg
+echo $PWD >> $HOME/.config/script-settings/pushChangesRaspi.cfg
