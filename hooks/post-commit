@@ -1,1 +1,1 @@
-echo $PWD >> $HOME/.config/script-settings/pushChangesRaspi.cfg
+echo $PWD >> $HOME/.local/share/script-settings/pushProjects.cfg
